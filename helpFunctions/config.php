@@ -1,0 +1,7 @@
+<?php
+
+CONST DB_HOST  = '127.0.0.1';
+CONST DB_PORT  = '3308';
+CONST DB_NAME  = 'FoodDeliveryDB';
+CONST DB_USERNAME  = 'root';
+CONST DB_PASSWORD  = '';
